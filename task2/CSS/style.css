@@ -1,0 +1,11 @@
+p {
+	text-align: right;
+}
+.caption {
+	text-transform: uppercase;
+	color: #ae6572;
+	text-align: right;
+}
+.lineheight {
+	line-height: 1.8;
+}

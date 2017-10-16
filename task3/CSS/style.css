@@ -1,0 +1,29 @@
+		body {
+			margin: 0 0;
+			background-color: #1e1f21;
+			color: white;
+		}
+		h1 {
+			margin: 0 0;
+			font-family: sans-serif;
+			font-weight: bold;
+			font-size: 15px;
+			padding: 5px;
+			background-color: #e18727;
+			color: white;
+			padding-left: 15px;
+		}
+		code {
+			text-align: left;
+		}
+
+		.caption {
+			color: #d3d0b4;
+			padding-left: 15px;
+		}
+		.property {
+			color: #7d707a;
+		}
+		.value {
+			color: #b37270;
+		}

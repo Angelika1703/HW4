@@ -1,0 +1,10 @@
+		body {
+			background-image: url("../img/fon.JPG");
+		}
+		div {
+			width: 320px;
+			height: 220px;
+			background-image: url("../img/kvadr.JPG");
+			margin: 75px auto;
+			
+		}
